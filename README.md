@@ -9,9 +9,6 @@ A simple weather app built with HTML, CSS, and JavaScript.
 - [Installation](#installation)
 - [Usage](#usage)
 - [API](#api)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 
