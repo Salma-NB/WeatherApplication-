@@ -108,3 +108,7 @@ body{
     margin-top: 10px;
     display: none;
 }
+
+section {
+    margin-bottom: 30px;
+}
